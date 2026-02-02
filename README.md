@@ -6,3 +6,6 @@ This game is made by JKGames.
 
 This game is not completed and is made for game jam. all of the game logic is implemented in c++.
 90% of the UI is implemented in blueprints and connected through c++.
+
+Game Download Link:
+https://jeykeygames.itch.io/lifein2dimensions
